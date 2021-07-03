@@ -19,6 +19,8 @@ git clone https://github.com/sebas1017/FAST-API-CRUD
 
 con esto clonaras el repositorio en tu carpeta local luego de esto:
 crear entorno virtual en la carpeta digita este comando en la carpeta donde clonaste el repositorio
+
+
 python3 -m venv FASTAPI
 
 activar entorno virtual
