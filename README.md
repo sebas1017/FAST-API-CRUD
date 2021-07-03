@@ -48,7 +48,7 @@ aqui le ponemos el nombre que queramos a nuestra base de datos y la contraseña 
 
 
 luego vamos al archivo database.py el cual esta en nuestra carpeta del proyecto y lo abrimos y veremos algo como esto:
-![alt text](https://github.com/sebas1017/FAST-API-CRUD/blob/main/FASTAPICRUD.png?raw=true)
+![alt text](https://github.com/sebas1017/FAST-API-CRUD/blob/main/database.PNG?raw=true)
 aqui reemplazaremos la contraseña de nuestra base de datos mysql creada el nombre de esta y el resto se queda igual
 
 luego de esto ejecutaremos en la carpeta de nuestro proyecto el siguiente comando
