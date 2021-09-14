@@ -3,6 +3,10 @@ Crud utilizando fast api con python y Mysql
 ![alt text](https://github.com/sebas1017/FAST-API-CRUD/blob/main/FASTAPICRUD.png?raw=true)
 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebas1017&layout=compact)](https://github.com/sebas1017/FAST-API-CRUD/)
+
+
 Durante este proyecto tendremos una APIREST desarrollada en FASTAPI nos permitira dicha api realizar el registro de usuarios con ciertos atributos y poder 
 almacenar estos datos en una base de datos MYSQL.
 
