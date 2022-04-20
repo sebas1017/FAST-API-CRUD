@@ -33,6 +33,13 @@ source FASTPI/bin/activate
 
 luego de activado el entorno veras que tu consola cambio de apariencia LUEGO instala todas las dependencias del proyecto en tu entorno virtual anteriormente creado
 
+antes de instalar el requirements instalar las dependencias de linux para
+el soporte de Postgresql en python y luego en el entorno virtual ejecutar el instalador de requirements.txt
+
+# este comando se debe ejecutar fuera del entorno virtual
+sudo apt install python3-dev libpq-dev   
+
+#  este si debe tener el entorno virtual activo
 pip install -r requirements.txt
 
 esto tardara un momento e instalara lo necesario para ejecutar el proyecto
