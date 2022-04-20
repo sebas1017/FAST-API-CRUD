@@ -1,0 +1,14 @@
+{
+    "name": "Start on Heroku: Python",
+    "description": "API REST OF USERS",
+    "image": "heroku/python",
+    "repository": "https://github.com/sebas1017/FAST-API-CRUD",
+    "keywords": ["python", "fastapi" ],
+    "env": {
+    },
+    "environments": {
+      "test": {
+        "scripts": {}
+      }
+    }
+  }
