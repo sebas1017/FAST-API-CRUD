@@ -1,6 +1,6 @@
 from enum import unique
 from peewee import *
-from .database import database
+from database import database
 
 class User(Model):
     username = CharField(max_length=50, unique=True)
