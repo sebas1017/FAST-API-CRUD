@@ -2,11 +2,11 @@ from typing import Optional
 from fastapi import FastAPI, Response
 from peewee import OperationalError
 from fastapi import FastAPI
-from src.database import database as connection
-from src.models import User
+from database import database as connection
+from models import User
 
 
-from src.schemas  import (UserRequestModel, UserResponseModel)
+from schemas  import (UserRequestModel, UserResponseModel)
 app = FastAPI(title="API REST DINAMICA",
               description="Registro de Usuarios",
               version='1.0.1')
