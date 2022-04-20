@@ -1,5 +1,6 @@
 fastapi
 psycopg2
-uvicorn
-SQLAlchemy
 peewee
+gunicorn
+uvicorn
+python-dotenv

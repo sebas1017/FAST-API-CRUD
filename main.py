@@ -1,5 +1,8 @@
-from typing import Optional
+
+
 from fastapi import FastAPI, Response
+from typing import Optional
+
 from peewee import OperationalError
 from database import database as connection
 from models import User
