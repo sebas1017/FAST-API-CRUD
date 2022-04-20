@@ -1,6 +1,0 @@
-fastapi
-psycopg2
-peewee
-gunicorn
-uvicorn
-python-dotenv
